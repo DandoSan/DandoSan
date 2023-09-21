@@ -5,7 +5,8 @@
 - 📫 How to reach me dandodidom@gmail.com
 - making changes
 
-
+- stanka bla bla 
+- motorka
 
 
 
