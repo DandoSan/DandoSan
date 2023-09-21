@@ -3,6 +3,16 @@
 - 🌱 I’m currently learning HTML,CSS,JavaScript
 - 💞️ I’m looking to collaborate on my assigments
 - 📫 How to reach me dandodidom@gmail.com
+- making changes
+
+
+
+
+
+
+
+
+
 
 - ![](https://dcbadge.vercel.app/api/shield/302534907635433472)
 <!---
